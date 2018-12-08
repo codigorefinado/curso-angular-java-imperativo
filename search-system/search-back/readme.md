@@ -25,3 +25,5 @@ ou
 [Youtube: http://youtube.com/codigorefinado](http://youtube.com/codigorefinado)
 
 [Twitter: https://twitter.com/cknp](https://twitter.com/cknp)
+
+[Slack DEV PARANÁ: http://devparana.herokuapp.com](http://devparana.herokuapp.com)

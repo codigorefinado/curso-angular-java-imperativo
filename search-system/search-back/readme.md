@@ -16,6 +16,7 @@ ou
 > jvisualvm
 
 
+
 [Telegram: http://t.me/codigorefinado](http://t.me/codigorefinado)
 
 [Facebook: http://fb.com/codigorefinado](http://fb.com/codigorefinado)
@@ -27,3 +28,4 @@ ou
 [Twitter: https://twitter.com/cknp](https://twitter.com/cknp)
 
 [Slack DEV PARANÁ: http://devparana.herokuapp.com](http://devparana.herokuapp.com)
+

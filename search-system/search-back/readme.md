@@ -11,9 +11,18 @@ ou
 
 > java -jar build/libs/search-back-1.0-SNAPSHOT.jar
 
+ou
+> ./gradlew clean build bootRun
+
+Abra no seu navegador para testar
+http://localhost:8080
+
 #### Execute o jvisualvm que mostra quando sua aplicação está utilizando de memória
 
 > jvisualvm
+
+
+
 
 
 

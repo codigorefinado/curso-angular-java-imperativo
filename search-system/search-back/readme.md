@@ -9,7 +9,7 @@ ou
 
 #### Para executar a aplicação e testar execute
 
-> java -jar build/libs/search-back-1.0-SNAPSHOT.jar
+> java -jar build/libs/searchback-1.0-SNAPSHOT.jar
 
 ou
 > ./gradlew clean build bootRun
